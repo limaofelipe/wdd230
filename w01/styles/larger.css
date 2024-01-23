@@ -1,0 +1,10 @@
+@media (max-width: 720px) {
+  nav {
+    flex-direction: column;
+  }
+  
+  .cards{
+    display: flex;
+    flex-direction: column;
+  }
+}
